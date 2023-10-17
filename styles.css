@@ -8,7 +8,7 @@ body {
 .container {
     max-width: 800px;
     margin: 0 auto;
-    background-color: #c5e2e2;
+    background-color: black#c5e2e2;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
@@ -19,7 +19,7 @@ body {
     background: linear-gradient(to bottom, #007BFF, #0056b3);
     padding: 20px;
     border-radius: 8px 8px 0 0;
-    color: #fff;
+    color: #3d0c23;
 }
 
 .round-image {
@@ -27,7 +27,7 @@ body {
     max-width: 150px;
     display: block;
     margin: 0 auto 20px;
-    border: 5px solid #fff;
+    border: 5px solid #0a0000;
 }
 
 h1 {
